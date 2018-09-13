@@ -25,13 +25,13 @@ package object license {
   ))
 
   val GatlingHighChartsLicense = Some(License.Custom(
-    s"""|Copyright 2011-$currentYear GatlingCorp (http://gatling.io)
+    s"""|Copyright 2011-$currentYear GatlingCorp (https://gatling.io)
         |
         |Licensed under the Gatling Highcharts License""".stripMargin
   ))
 
   val AllRightsReservedLicense = Some(License.Custom(
-    s"""|Copyright 2011-$currentYear GatlingCorp (http://gatling.io)
+    s"""|Copyright 2011-$currentYear GatlingCorp (https://gatling.io)
         |
         |All rights reserved.""".stripMargin
   ))
